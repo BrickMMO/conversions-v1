@@ -1,6 +1,6 @@
 # Conversions
 
-A small website used to convert common BrickMMO realted usint of measurement:
+A small website used to convert common BrickMMO realted units of measurement:
 
 - Studs
 - Gric (16 x 16 studs)
