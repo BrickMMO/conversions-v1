@@ -26,7 +26,7 @@ This project uses only [HTML](), [W3.CSS]() and [JavaScript]() and is hosted usi
 
 ## Repo Resources
 
-- [BrickMMO Tasks](https://tasks.brickmmo.ca)
+- [BrickMMO](https://brickmmo.com)
 
 <a href="https://brickmmo.com">
 <img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="300">
