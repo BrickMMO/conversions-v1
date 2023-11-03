@@ -1,0 +1,28 @@
+body {
+    background-color: #1e3a6c;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    background-color: #1565c0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+label {
+    display: block;
+    margin-top: 20px;
+}
+
+input {
+    max-width: 200px;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #3f77e0;
+    color: #ffec89; /* Yellowish font color */
+}
