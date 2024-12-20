@@ -27,7 +27,7 @@ This project uses [jQuery](https://jquery.com/), [HTML](https://developer.mozill
 ## Repo Resources
 
 * [BrickMMO](https://brickmmo.com)
-* [Conversions](https://conversions.brickmmo.com/)
+* [BrickMMO Conversions](https://conversions.brickmmo.com/)
 
 <a href="https://brickmmo.com">
 <img src="https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured-horizontal.png" width="200">
